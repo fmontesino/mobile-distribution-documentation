@@ -1,3 +1,11 @@
+# Mobile OS distribution
+
+## Mobile & Tablet Operating System Market Share (UK, 2019-2020)
+
+![](https://github.com/fmontesino/mobile-distribution-documentation/blob/master/StatCounter-os_combined-GB-monthly-201902-202001-bar.png?raw=true)
+
+Source: <a href="https://gs.statcounter.com/os-market-share/mobile-tablet/united-kingdom/#monthly-201902-202001-bar">StatCounter Global Stats - OS Market Share</a>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fmontesino/mobile-distribution-documentation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
