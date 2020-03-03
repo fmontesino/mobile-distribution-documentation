@@ -17,6 +17,13 @@
 ### Mobile OS UK Market Share (Q1 2018 - Q1 2020)
 
 ![Mobile OS UK Market Share](img/mobile/os_combined-GB-quarterly-20181-20201.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/united-kingdom/#quarterly-201801-202001)
+
+![Android Version UK Market Share](img/mobile/android_version-GB-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/android-version-market-share/mobile/united-kingdom/#quarterly-201801-202001-bar)
+
+![iOS Version UK Market Share](img/mobile/ios_version-GB-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market-share/mobile/united-kingdom/#quarterly-201801-202001-bar)
 
 ||Android|iOS|
 |:---:|:---:|:---:|
@@ -25,15 +32,18 @@
 |Q3 2019|**51.85%**|47.6%|
 |Q2 2019|**50.41%**|48.88%|
 
-Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/united-kingdom/#quarterly-201801-202001)
-
-![Android Version UK Market Share](img/mobile/android_version-GB-quarterly-20181-20201-bar.png)
-![iOS Version UK Market Share](img/mobile/ios_version-GB-quarterly-20181-20201-bar.png)
 <div id="mobile-os-ww"/>
 
 ### Mobile OS Worldwide Market Share (Q1 2018 - Q1 2020)
 
 ![Mobile OS Worldwide Market Share](img/mobile/os_combined-ww-quarterly-20181-20201.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/worldwide/#quarterly-201801-202001)
+
+![Android Version UK Market Share](img/mobile/android_version-ww-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/android-version-market-share/mobile/worldwide/#quarterly-201801-202001-bar)
+
+![iOS Version UK Market Share](img/mobile/ios_version-ww-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market-share/mobile/worldwide/#quarterly-201801-202001-bar)
 
 ||Android|iOS|
 |:---:|:---:|:---:|
@@ -41,11 +51,6 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mo
 |Q4 2019|**75.56%**|23.24%|
 |Q3 2019|**76.18%**|22.22%|
 |Q2 2019|**75.52%**|22.5%|
-
-Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/worldwide/#quarterly-201801-202001)
-
-![Android Version UK Market Share](img/mobile/android_version-ww-quarterly-20181-20201-bar.png)
-![iOS Version UK Market Share](img/mobile/ios_version-ww-quarterly-20181-20201-bar.png)
 
 # Tablet
 
@@ -56,6 +61,14 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mo
 ### Tablet OS UK Market Share (Q1 2018 - Q1 2020)
 
 ![Mobile OS UK Market Share](img/tablet/os_combined-GB-quarterly-20181-20201.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/united-kingdom/#quarterly-201801-202001)
+
+![Android Version UK Market Share](img/tablet/android_version-GB-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/android-version-market-share/tablet/united-kingdom/#quarterly-201801-202001-bar)
+
+![iOS Version UK Market Share](img/tablet/ios_version-GB-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market-share/tablet/united-kingdom/#quarterly-201801-202001-bar)
+
 
 ||Android|iOS|
 |:---:|:---:|:---:|
@@ -64,16 +77,18 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mo
 |Q3 2019|23.43%|**76.35%**|
 |Q2 2019|22.9%|**76.73%**|
 
-Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/united-kingdom/#quarterly-201801-202001)
-
-![Android Version UK Market Share](img/tablet/android_version-GB-quarterly-20181-20201-bar.png)
-![iOS Version UK Market Share](img/tablet/ios_version-GB-quarterly-20181-20201-bar.png)
-
 <div id="tablet-os-ww"/>
 
 ### Tablet OS Worldwide Market Share (Q1 2018 - Q1 2020)
 
 ![Tablet OS Worldwide Market Share](img/tablet/os_combined-ww-quarterly-20181-20201.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/worldwide/#quarterly-201801-202001)
+
+![Android Version UK Market Share](img/tablet/android_version-ww-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/android-version-market-share/tablet/worldwide/#quarterly-201801-202001-bar)
+
+![iOS Version UK Market Share](img/tablet/ios_version-ww-quarterly-20181-20201-bar.png)
+Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market-share/tablet/worldwide/#quarterly-201801-202001-bar)
 
 ||Android|iOS|
 |:---:|:---:|:---:|
@@ -81,8 +96,3 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/ta
 |Q4 2019|35.63%|**64.22%**|
 |Q3 2019|28.09%|**71.88%**|
 |Q2 2019|28.91%|**70.81%**|
-
-Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/worldwide/#quarterly-201801-202001)
-
-![Android Version UK Market Share](img/tablet/android_version-ww-quarterly-20181-20201-bar.png)
-![iOS Version UK Market Share](img/tablet/ios_version-ww-quarterly-20181-20201-bar.png)
