@@ -1,12 +1,13 @@
 - [Mobile Operating System distribution](#mobile-operating-system-distribution)
-  * [Mobile OS UK Market Share (Q1 2017 - Q1 2020)](#mobile-os-uk-market-share--q1-2017---q1-2020-)
-  * [Mobile OS Worldwide Market Share (Q1 2017 - Q1 2020)](#mobile-os-worldwide-market-share--q1-2017---q1-2020-)
+  * [UK Market Share (Q1 2017 - Q1 2020)](#mobile-os-uk)
+  * [Worldwide Market Share (Q1 2017 - Q1 2020)](#mobile-os-ww)
 - [Tablet Operating System distribution](#tablet-operating-system-distribution)
-  * [Tablet OS UK Market Share (Q1 2017 - Q1 2020)](#tablet-os-uk-market-share--q1-2017---q1-2020-)
-  * [Tablet OS Worldwide Market Share (Q1 2017 - Q1 2020)](#tablet-os-worldwide-market-share--q1-2017---q1-2020-)
+  * [UK Market Share (Q1 2017 - Q1 2020)](#tablet-os-uk)
+  * [Worldwide Market Share (Q1 2017 - Q1 2020)](#tablet-os-ww)
   
 ## Mobile Operating System distribution
 
+<div id="mobile-os-uk"/>
 ### Mobile OS UK Market Share (Q1 2017 - Q1 2020)
 
 ![Mobile OS UK Market Share](img/mobile/os_combined-GB-quarterly-20171-20201.png)
@@ -20,6 +21,7 @@
 
 Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/united-kingdom/#quarterly-201701-202001)
 
+<div id="mobile-os-ww"/>
 ### Mobile OS Worldwide Market Share (Q1 2017 - Q1 2020)
 
 ![Mobile OS Worldwide Market Share](img/mobile/os_combined-ww-quarterly-20171-20201.png)
@@ -35,6 +37,7 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mo
 
 ## Tablet Operating System distribution
 
+<div id="tablet-os-uk"/>
 ### Tablet OS UK Market Share (Q1 2017 - Q1 2020)
 
 ![Mobile OS UK Market Share](img/tablet/os_combined-GB-quarterly-20171-20201.png)
@@ -48,6 +51,7 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mo
 
 Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/united-kingdom/#quarterly-201701-202001)
 
+<div id="tablet-os-ww"/>
 ### Tablet OS Worldwide Market Share (Q1 2017 - Q1 2020)
 
 ![Tablet OS Worldwide Market Share](img/tablet/os_combined-ww-quarterly-20171-20201.png)
