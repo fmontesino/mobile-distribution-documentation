@@ -2,7 +2,7 @@
 
 ## Mobile & Tablet Operating System Market Share (UK, 2019-2020)
 
-![](https://github.com/fmontesino/mobile-distribution-documentation/blob/master/StatCounter-os_combined-GB-monthly-201902-202001-bar.png?raw=true)
+![Mobile OS UK Share](StatCounter-os_combined-GB-monthly-201902-202001.png)
 
 Source: <a href="https://gs.statcounter.com/os-market-share/mobile-tablet/united-kingdom/#monthly-201902-202001-bar">StatCounter Global Stats - OS Market Share</a>
 
