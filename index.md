@@ -92,3 +92,4 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market
 ## Useful links
 - [https://developer.android.com/about/dashboards](https://developer.android.com/about/dashboards)
 - [https://developer.apple.com/support/app-store/](https://developer.apple.com/support/app-store/)
+- [https://david-smith.org/iosversionstats/](https://david-smith.org/iosversionstats/)
