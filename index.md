@@ -1,4 +1,4 @@
-Welcome!
+Welcome! 
 This is a small summary of the Android/iOS version distribution across the UK and Worldwide.
 The data represented in this page corresponds to the period between **Q1 2018 - Q1 2020**.
 This website was last updated on *March 3rd, 2020*. 
@@ -90,5 +90,5 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market
 
 
 ## Useful links
-[https://developer.android.com/about/dashboards](https://developer.android.com/about/dashboards)
-[https://developer.apple.com/support/app-store/](https://developer.apple.com/support/app-store/)
+- [https://developer.android.com/about/dashboards](https://developer.android.com/about/dashboards)
+- [https://developer.apple.com/support/app-store/](https://developer.apple.com/support/app-store/)
