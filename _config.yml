@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Mobile distribution documentation
+description: A small overview of how Android and iOS are used around the UK and Worldwide
+github:
+  is_project_page: false
