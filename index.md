@@ -1,45 +1,55 @@
-# Mobile OS distribution
+## Mobile Operating System distribution
 
-## Mobile & Tablet Operating System Market Share (UK, 2019-2020)
+### Mobile OS UK Market Share (Q1 2017 - Q1 2020)
 
-![Mobile OS UK Share](StatCounter-os_combined-GB-monthly-201902-202001.png)
+![Mobile OS UK Market Share](img/mobile/os_combined-GB-quarterly-20171-20201.png)
 
-Source: <a href="https://gs.statcounter.com/os-market-share/mobile-tablet/united-kingdom/#monthly-201902-202001-bar">StatCounter Global Stats - OS Market Share</a>
+||Android|iOS|
+|:---:|:---:|:---:|
+|Q1 2020|49.35%|**50.33%**|
+|Q4 2019|**50.01%**|49.61%|
+|Q3 2019|**51.85%**|47.6%|
+|Q2 2019|**50.41%**|48.88%|
 
-## Welcome to GitHub Pages
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/united-kingdom/#quarterly-201701-202001)
 
-You can use the [editor on GitHub](https://github.com/fmontesino/mobile-distribution-documentation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Mobile OS Worldwide Market Share (Q1 2017 - Q1 2020)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Mobile OS Worldwide Market Share](img/mobile/os_combined-ww-quarterly-20171-20201.png)
 
-### Markdown
+||Android|iOS|
+|:---:|:---:|:---:|
+|Q1 2020|**73.94%**|25.17%|
+|Q4 2019|**75.56%**|23.24%|
+|Q3 2019|**76.18%**|22.22%|
+|Q2 2019|**75.52%**|22.5%|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/worldwide/#quarterly-201701-202001)
 
-```markdown
-Syntax highlighted code block
+## Tablet Operating System distribution
 
-# Header 1
-## Header 2
-### Header 3
+### Tablet OS UK Market Share (Q1 2017 - Q1 2020)
 
-- Bulleted
-- List
+![Mobile OS UK Market Share](img/tablet/os_combined-GB-quarterly-20171-20201.png)
 
-1. Numbered
-2. List
+||Android|iOS|
+|:---:|:---:|:---:|
+|Q1 2020|35.1%|**64.7%**|
+|Q4 2019|30.37%|**69.45%**|
+|Q3 2019|23.43%|**76.35%**|
+|Q2 2019|22.9%|**76.73%**|
 
-**Bold** and _Italic_ and `Code` text
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/united-kingdom/#quarterly-201701-202001)
 
-[Link](url) and ![Image](src)
-```
+### Tablet OS Worldwide Market Share (Q1 2017 - Q1 2020)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Tablet OS Worldwide Market Share](img/tablet/os_combined-ww-quarterly-20171-20201.png)
 
-### Jekyll Themes
+||Android|iOS|
+|:---:|:---:|:---:|
+|Q1 2020|39.25%|**60.51%**|
+|Q4 2019|35.63%|**64.22%**|
+|Q3 2019|28.09%|**71.88%**|
+|Q2 2019|28.91%|**70.81%**|
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fmontesino/mobile-distribution-documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/worldwide/#quarterly-201701-202001)
