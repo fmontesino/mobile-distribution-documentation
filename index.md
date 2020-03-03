@@ -1,3 +1,10 @@
+- [Mobile Operating System distribution](#mobile-operating-system-distribution)
+  * [Mobile OS UK Market Share (Q1 2017 - Q1 2020)](#mobile-os-uk-market-share--q1-2017---q1-2020-)
+  * [Mobile OS Worldwide Market Share (Q1 2017 - Q1 2020)](#mobile-os-worldwide-market-share--q1-2017---q1-2020-)
+- [Tablet Operating System distribution](#tablet-operating-system-distribution)
+  * [Tablet OS UK Market Share (Q1 2017 - Q1 2020)](#tablet-os-uk-market-share--q1-2017---q1-2020-)
+  * [Tablet OS Worldwide Market Share (Q1 2017 - Q1 2020)](#tablet-os-worldwide-market-share--q1-2017---q1-2020-)
+  
 ## Mobile Operating System distribution
 
 ### Mobile OS UK Market Share (Q1 2017 - Q1 2020)
