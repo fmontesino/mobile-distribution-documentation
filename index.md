@@ -14,13 +14,15 @@ This website was last updated on *March 3rd, 2020*.
 	  - [Worldwide Market Share](#tablet-os-ww)
  - [Useful links](#useful-links)
   
-# Mobile
+  ---
+  
+## Mobile
 
-## Mobile Operating System distribution
+### Mobile Operating System distribution
 
 <div id="mobile-os-uk"/>
 
-### Mobile OS UK Market Share
+#### Mobile OS UK Market Share
 
 ![Mobile OS UK Market Share](img/mobile/os_combined-GB-quarterly-20181-20201.png)
 Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/united-kingdom/#quarterly-201801-202001)
@@ -36,7 +38,7 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market
 
 <div id="mobile-os-ww"/>
 
-### Mobile OS Worldwide Market Share
+#### Mobile OS Worldwide Market Share
 
 ![Mobile OS Worldwide Market Share](img/mobile/os_combined-ww-quarterly-20181-20201.png)
 Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/mobile/worldwide/#quarterly-201801-202001)
@@ -50,13 +52,13 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/android-version-ma
 Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market-share/mobile/worldwide/#quarterly-201801-202001-bar)
 
 
-# Tablet
+## Tablet
 
-## Tablet Operating System distribution
+### Tablet Operating System distribution
 
 <div id="tablet-os-uk"/>
 
-### Tablet OS UK Market Share
+#### Tablet OS UK Market Share
 
 ![Mobile OS UK Market Share](img/tablet/os_combined-GB-quarterly-20181-20201.png)
 Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/united-kingdom/#quarterly-201801-202001)
@@ -73,7 +75,7 @@ Source: [StatCounter Global Stats](https://gs.statcounter.com/ios-version-market
 
 <div id="tablet-os-ww"/>
 
-### Tablet OS Worldwide Market Share
+#### Tablet OS Worldwide Market Share
 
 ![Tablet OS Worldwide Market Share](img/tablet/os_combined-ww-quarterly-20181-20201.png)
 Source: [StatCounter Global Stats](https://gs.statcounter.com/os-market-share/tablet/worldwide/#quarterly-201801-202001)
